@@ -1,9 +1,9 @@
 # tableau-challenge
 Data story vizualization using City Bike NYC Data
 
-**Link to Tableau Public Story:** [City Bike Report 2020] (https://public.tableau.com/profile/alejandro.ochoa1874#!/vizhome/CitiBikeNJCReport2020/CitiBikeStory)
+**Link to Tableau Public Story:** [City Bike Report 2020](https://public.tableau.com/profile/alejandro.ochoa1874#!/vizhome/CitiBikeNJCReport2020/CitiBikeStory)
 
-**Data Source:** [Citi Bike System Data] (https://www.citibikenyc.com/system-data)
+**Data Source:** [Citi Bike System Data](https://www.citibikenyc.com/system-data)
 
 **Objective:** 
 Look up in data logs in the NJC Citi Bike Trip History Logs and design visualizations for discovered phenomena. The timespan chose is January 2020 to December 2020.
