@@ -9,12 +9,12 @@ Data story vizualization using City Bike NYC Data
 Look up in data logs in the NJC Citi Bike Trip History Logs and design visualizations for discovered phenomena. The timespan chose is January 2020 to December 2020.
 
 **ETL:** 
-•	Extracted data from Citi Bike System Data from January to December 2020
-•	Transformed data in Jupyter Notebook:
-  o	Append each csv file to a combined dataset
-  o	Replace the Gender variables of 0, 1, 2 to Unknown, Male, and Female
-  o	Created and saved this dataset into a csv file 
-•	Loaded dataset into a Tableau Workbook
+-	Extracted data from Citi Bike System Data from January to December 2020
+-	Transformed data in Jupyter Notebook:
+  -	Append each csv file to a combined dataset
+  -	Replace the Gender variables of 0, 1, 2 to Unknown, Male, and Female
+  -	Created and saved this dataset into a csv file 
+-	Loaded dataset into a Tableau Workbook
 
 A phenomenon that is very interesting is that the top user by age is 52 years-old and not a range of ages (i.e. 50-55 years) who decided not to show their gender, this group has a the most trips made with an average of 58 min of duration and most of their trips start in Liberty Light Rail and Newport Pkwy very near to NYC. This group moves all the averages and trends in a huge way.
 
