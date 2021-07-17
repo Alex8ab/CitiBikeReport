@@ -5,6 +5,8 @@ Data story vizualization using City Bike NYC Data
 
 **Data Source:** [Citi Bike System Data](https://www.citibikenyc.com/system-data)
 
+![]<iframe src="https://giphy.com/embed/GQyK6ywwQ8Wvw8psGk" width="480" height="436" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GQyK6ywwQ8Wvw8psGk">via GIPHY</a></p>
+
 **Objective:** 
 Look up in data logs in the NJC Citi Bike Trip History Logs and design visualizations for discovered phenomena. The timespan chose is January 2020 to December 2020.
 
