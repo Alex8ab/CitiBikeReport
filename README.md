@@ -5,8 +5,7 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 
 **Data Source:** [Citi Bike System Data](https://www.citibikenyc.com/system-data)
 
-**Objective:** 
-Looking up data logs in the Jersey City Citi Bike Trip History Logs and designing visualizations for discovered phenomena. The timespan chosen is January 2020 to December 2020.
+**Objective:** Looking up data logs in the Jersey City Citi Bike Trip History Logs and designing visualizations for discovered phenomena. The timespan chosen is January 2020 to December 2020.
 
 ![Tableau gif](/JCCitiBikeReport.gif)
 
