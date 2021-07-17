@@ -1,14 +1,14 @@
-# Citi Bike Report of New Jersey City
-Data story vizualization using Tableau.
+# Citi Bike Report of Jersey City
+Citi Bike is a privately owned public bicycle sharing system serving the New York City boroughs of the Bronx, Brooklyn, Manhattan, and Queens, as well as Jersey City, New Jersey. This project is a data story vizualization of trips history using Tableau.
 
 **Link to Tableau Public Story:** [City Bike Report 2020](https://public.tableau.com/profile/alejandro.ochoa1874#!/vizhome/CitiBikeNJCReport2020/CitiBikeStory)
 
 **Data Source:** [Citi Bike System Data](https://www.citibikenyc.com/system-data)
 
 **Objective:** 
-Look up in data logs in the NJC Citi Bike Trip History Logs and design visualizations for discovered phenomena. The timespan chose is January 2020 to December 2020.
+Looking up data logs in the Jersey City Citi Bike Trip History Logs and designing visualizations for discovered phenomena. The timespan chosen is January 2020 to December 2020.
 
-![Tableau gif](/NJCCitiBikeReport.gif)
+![Tableau gif](/JCCitiBikeReport.gif)
 
 **ETL:** 
 -	Extracted data from Citi Bike System Data from January to December 2020
